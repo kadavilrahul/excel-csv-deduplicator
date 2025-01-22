@@ -1,5 +1,6 @@
 # Excel and CSV File Deduplicator
 This Python tool helps you remove duplicate entries from your Excel and CSV files. It can find duplicates both within a single file and across multiple files, specifically focusing on the second column (column B) of your data.
+Tested and developed on Ubuntu 24.04.1 LTS (Noble Numbat).
 
 ## Requirements
 - Python 3
