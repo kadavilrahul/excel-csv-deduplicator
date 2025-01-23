@@ -13,6 +13,12 @@ Generated using Windsurf Code Editor
 
 ## Installation
 
+First, clone the repository:
+```bash
+git clone https://github.com/kadavilrahul/excel-csv-deduplicator.git
+cd excel-csv-deduplicator
+```
+
 Install the required Python packages using one of these methods:
 
 1. Direct installation:
