@@ -34,3 +34,15 @@ Thumbs.db
 # Project specific
 data_csv/*
 !data_csv/.gitkeep
+
+# Ignore backups folder
+backups/
+
+# Ignore shell scripts, log files, and pid files
+*.log
+*.pid
+
+# Ignore specific shell script files
+setup_file_versioning.sh
+file_versioning.sh
+check_versioning.sh
